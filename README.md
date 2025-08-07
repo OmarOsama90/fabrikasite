@@ -1,23 +1,27 @@
 # 🎯 Project Title: fabrikasite
 
-A modern and responsive personal portfolio website to showcase your work, skills, and projects.
+A modern and responsive website showcasing certified used cars for sale with guaranteed quality, installment options, and home delivery service.
 
 ---
 
 ## 🚀 Features
 
-- Responsive design for all devices
-- Dark/Light mode toggle
-- Projects section with live previews
-- Contact form with email integration
-
+- 🔧 Certified and reconditioned used cars
+- 💸 Fixed prices (no negotiation needed)
+- 🚚 Home delivery available
+- 📃 Return policy up to 7 days
+- 🧾 Warranty up to 90 days
+- 📊 Real-time display of:
+  - Happy customers: 15,000+
+  - Cars sold: 769
+  - Years of experience: 25+
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5, CSS3, JavaScript
-- React.js
-- Tailwind CSS
+- HTML5  
+- CSS3  
+- JavaScript
 - EmailJS (for contact form)
 
 ---
@@ -40,14 +44,6 @@ https://cdn.discordapp.com/attachments/1073613494550806639/1403044428909908008/9
 ## 📦 Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/portfolio.git
-
-# Navigate to the folder
-cd portfolio
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
+git clone https://github.com/omarosama90/fabrikasite.git
+cd fabriksasite
+# No build step required – just open index.html in browser
