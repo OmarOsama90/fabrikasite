@@ -20,8 +20,7 @@ A modern and responsive website showcasing certified used cars for sale with gua
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3  
-- JavaScript
+- CSS3
 - EmailJS (for contact form)
 
 ---
